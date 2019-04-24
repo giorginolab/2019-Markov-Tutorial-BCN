@@ -24,14 +24,15 @@ This tutorial shows the Markov model-based computation "macroscopic" quantities
 in a realistic system, simulated with extensive MD. 
 
 
-There are 3 data sets already downloaded for you:
-* `/mnt/scratch/shared/markov/binding` Ligand binding
-* `/mnt/scratch/shared/markov/villin`  Villin folding
-* `/mnt/scratch/shared/markov/cxcl12`  GPCR conformational transition
+There are 3 data sets already computed and available on the [HTMD site](https://software.acellera.com/docs/latest/htmd/userguide/analysing.html):
+*  Ligand binding
+*  Villin folding
+*  GPCR conformational transition
 
 
-We now turn to the files contained in `/mnt/scratch/shared/markov/binding/1/filtered/` (Thrombin
-binding dataset). This is 1/3 of the full dataset (see directories 2 and 3).
+We now turn to the files  in the Thrombin ligand
+binding dataset. Note that it is 1/3 of the full dataset (see also 
+directories 2 and 3).
 
 
 
